@@ -5,9 +5,3 @@ https://dai.google.com/linear/hls/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
 
 #EXTINF:-1 ,PAK vs ENG
 https://dai.google.com/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
-
-#EXTINF:-1 ,Abu Dhabi T10 ENG
-https://abt10jioeng.akamaized.net/bpk-tv/JV_CricketEnglishHD_DIG_MOB/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36&cookie=hdntl=exp=1669981288~acl=/*~data=hdntl~hmac=e2d7b38177a70c04385ab477b677e9329f6251c2452fadbb7865943445f16749
-
-#EXTINF:-1 ,Abu Dhabi T10 HIN
-https://abt10jiohin.akamaized.net/bpk-tv/JV_CricketHindiHD_DIG_MOB/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36&cookie=hdntl=exp=1669981338~acl=/*~data=hdntl~hmac=cbb089172d1957aa17eb50ce532865f900b7641b8fe8bdbd10dcc9e99e8db756
