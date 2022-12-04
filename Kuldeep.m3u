@@ -12,4 +12,7 @@ https://dai.google.com/linear/hls/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
 #EXTINF:-1 ,IND VS BAN HIN
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 
+#EXTINF:-1 ,Abu Dhabi T10
+https://abt10jioeng.akamaized.net/bpk-tv/JV_CricketEnglishHD_DIG_BTS/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&cookie=hdntl=exp=1670241149~acl=/*~data=hdntl~hmac=a7bef015898aefbcc9b601a7e4c441db3913354c9af1737e906ddcbf85abe081
+
 
