@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 ,BBL T20
+#EXTINF:-1 tvg-logo='https://images.slivcdn.com/videoasset_images/bbl2022_23_melbourne_stars_vs_hobart_hurricanes_13dec_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp" ,BBL T20
 https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 
 #EXTINF:-1 ,LPL T20
