@@ -9,10 +9,10 @@ https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
 #EXTINF:-1 ,PAK vs ENG
 https://dai.google.com/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/portrait_thumb/indvsban_1test_d3_1024x1471_all_lang.jpg?h=494&w=344&t=c_fill&q=low&fr=webp" ,IND VS BAN ENG
+#EXTINF:-1 ,IND VS BAN ENG
 https://dai.google.com/linear/hls/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/portrait_thumb/indvsban_1test_d3_1024x1471_hindi.jpg?h=494&w=344&t=c_fill&q=low&fr=webp" ,IND VS BAN HIN
+#EXTINF:-1 ,IND VS BAN HIN
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 
 
