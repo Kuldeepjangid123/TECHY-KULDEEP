@@ -9,8 +9,11 @@ https://dai.fancode.com/primary/60830_english_hls_3418ta-di/index.m3u8
 #EXTINF:-1 ,LPL T20
 https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
 
-#EXTINF:-1 ,TATA IPL ENG
-https://jioeventeng.akamaized.net/bpk-tv/TEST10_DIG_MOB/Fallback/hdntl=exp=1671862938~acl=%2f*~data=hdntl~hmac=a50ba6f32e508f85f42ee2af02abf92d1e817a122985b75dfc06771bc2f8ba76/index.m3u8
+#EXTINF:-1 ,TATA IPL AUCTION ENG
+https://jioeventeng.akamaized.net/bpk-tv/JV_SportsHD_English_DIG_MOB/Fallback/hdntl=exp=1671866866~acl=%2f*~data=hdntl~hmac=ee1ad9ce422d3b9a0f16506bcc1c2bb5410156dbb3d99a37f2cf1e50f481cedb/index.m3u8
+
+#EXTINF:-1 ,TATA IPL AUCTION HIN
+https://jioeventhin.akamaized.net/bpk-tv/JV_SportsHD_Hindi_DIG_MOB/Fallback/hdntl=exp=1671866740~acl=%2f*~data=hdntl~hmac=a981fb9fe3743b88e98fdd4f203a776d1b852197974babc35b8f255052786937/index.m3u8
 
 #EXTINF:-1 ,AUS vs SA
 https://dai.google.com/linear/hls/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
