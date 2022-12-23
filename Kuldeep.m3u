@@ -9,9 +9,6 @@ https://dai.fancode.com/primary/60830_english_hls_3418ta-di/index.m3u8
 #EXTINF:-1 ,LPL T20
 https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
 
-#EXTINF:-1 ,TATA IPL HIN
-https://key-jiocinema.voot.com/keydelivery/v1/idc/aes/bpk-tv/JV_SportsHD_Hindi_DIG_MOB/Fallback/hls/aes128.key-40e76ee2d23f52038ba8e70bf4d9cb64-1671753600.m3u8
-
 #EXTINF:-1 ,TATA IPL ENG
 https://jioeventeng.akamaized.net/bpk-tv/TEST10_DIG_MOB/Fallback/hdntl=exp=1671862938~acl=%2f*~data=hdntl~hmac=a50ba6f32e508f85f42ee2af02abf92d1e817a122985b75dfc06771bc2f8ba76/index.m3u8
 
