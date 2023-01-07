@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 , Hotstar 
-"link": "https://live-cf.cdn.hotstar.com/hls/live/2024720/incaallow-indvssl2023/eng/1540020913/15mindvrm019c30f271b01942498af5fae10d856c4607january2023/master_6.m3u8", 
+https://live-cf.cdn.hotstar.com/hls/live/2024720/incaallow-indvssl2023/eng/1540020913/15mindvrm019c30f271b01942498af5fae10d856c4607january2023/master_6.m3u8
 "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",
 "name": "Hotstar live", 
 "userAgent": "Hotstar;in.startv.hotstar.king/12.4.2.1156 (Android/11)-M", 
