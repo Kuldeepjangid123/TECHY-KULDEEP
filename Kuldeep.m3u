@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", IND VS SL
-[{
+#EXTINF:-1 , Hotstar 
+"link": "https://live-cf.cdn.hotstar.com/hls/live/2024720/incaallow-indvssl2023/eng/1540020913/15mindvrm019c30f271b01942498af5fae10d856c4607january2023/master_6.m3u8", 
 "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",
 "name": "Hotstar live", 
-"link": "https://live-cf.cdn.hotstar.com/hls/live/2024720/incaallow-indvssl2023/eng/1540020913/15mindvrm019c30f271b01942498af5fae10d856c4607january2023/master_6.m3u8", 
 "userAgent": "Hotstar;in.startv.hotstar.king/12.4.2.1156 (Android/11)-M", 
 "cookie": "CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzIwL2luY2FhbGxvdy1pbmR2c3NsMjAyMy9lbmcvMTU0MDAyMDkxMy8xNW1pbmR2cm0wMTljMzBmMjcxYjAxOTQyNDk4YWY1ZmFlMTBkODU2YzQ2MDdqYW51YXJ5MjAyMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjczMTgxNzA4fX19XX0_; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=Vo0Mk2GiTdVUKMoC9zZrozH3URNNKGtjsbdkHaiqRRkpuDdN3wA4UaCPxfE7-2BvBSx1cNmXqOCUYLU6Qz8lanXK1q-7BPBEWzanglAQx-UlHZtCeQRoD33y1q0QHAjou7ak~ucgDTrLtWlbCGeFkjI-XtvDbm-kRKEZusDW7CYJBJcqzV2bdlN7S4XdU1wi3hdqA5V05j7a9IcaY~19qFy9l09Ff6gHhx4AzhOnNgxM-zpTDMiu~ojGqLJFc~Bz8HdmZ8c0jbdnBbbZw8YvBUyKv6lJETFfuy2E6ipuliQHQ0wHljkVLvxtZM1BOZfXdlkgXYmNey7q3ShERPYktQ"
-}]
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", BBL 1 T20
 https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
@@ -27,8 +25,6 @@ https://dai.google.com/linear/hls/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", PAK VS NZ
 https://dai.google.com/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", PAK VS NZ
-https://dai.google.com/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 
 
 
