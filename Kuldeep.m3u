@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BPL T20
-https://dai.fancode.com/primary/62029_english_hls_3196ta-no/index.m3u8
+https://dai.fancode.com/linear/hls/event/6Eb8pF3WQeuOjVwNumuNWQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SUPER SMASH T20
 https://dai.fancode.com/primary/60840_english_hls_3446ta-no/index.m3u8
