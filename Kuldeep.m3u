@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 ENG
-https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1673449753~acl=%2f*~data=hdntl~hmac=4ab9e4ee252d7fc2a9bd996f34ddceee1fb943fe3b79f7c669052211f7359939/index.m3u8
+https://jioeventeng.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1673449820~acl=%2f*~data=hdntl~hmac=17bacc98e50ef9603c1024286d96b900db35bbe65974fcd9ba7bfda88fd283b9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 HIN
 https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1673449753~acl=%2f*~data=hdntl~hmac=4ab9e4ee252d7fc2a9bd996f34ddceee1fb943fe3b79f7c669052211f7359939/index.m3u8
