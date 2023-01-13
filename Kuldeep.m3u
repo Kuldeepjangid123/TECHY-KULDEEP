@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",ICL T20 ENG
+https://zak-tvstr.zee5.com/hls/live/2097084/DCVSADKR12012023ENGM1/hdntl=exp=1673701691~acl=%2f*~data=hdntl~hmac=69717a42de23048be2224bdea44f84451e4b4e637cbbedc622c076cb551e4370/master_1080pl.m3u8
+
+#EXTINF:-1 tvg-logo="",ICL T20 HIN
+https://zak-tvstr.zee5.com/hls/live/2097085/DCVSADKR12012023HINM1/hdntl=exp=1673702300~acl=%2f*~data=hdntl~hmac=d3a3015f342221638975afe02222b12fc52064f5bd23a68ae0579abd5d526fce/master_1080pl.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 ENG
 https://jioeventeng.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1673696015~acl=%2f*~data=hdntl~hmac=10f8e194861d5369730872982184b0a8f7a1bf5be75a3503c1c02bccf229a841/index.m3u8
 
