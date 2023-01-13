@@ -7,7 +7,7 @@ https://jioeventeng.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=ex
 https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1673624445~acl=%2f*~data=hdntl~hmac=3805d2cccd18a35592a89b8d87902105fb911ffc9b573b474c68b0c478f5a4b4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BPL T20
-https://dai.fancode.com/linear/hls/event/gy7uLuVtSQ691l4HMoMy5A/master.m3u8
+https://dai.fancode.com/linear/hls/event/9SxcfJeuSkCZ0VqdxHrFFQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SUPER SMASH T20
 https://dai.fancode.com/linear/hls/event/4FxjvxnlRU6pa57ewLjAZg/master.m3u8
