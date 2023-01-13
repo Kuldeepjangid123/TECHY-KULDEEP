@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 ENG
-https://jioeventeng.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1673624355~acl=%2f*~data=hdntl~hmac=8068c46915644c437ba2d7e8fb815d54944913b869bcec0b90c4cebe05368e9a/index.m3u8
+https://jioeventeng.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1673696015~acl=%2f*~data=hdntl~hmac=10f8e194861d5369730872982184b0a8f7a1bf5be75a3503c1c02bccf229a841/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 HIN
-https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1673624445~acl=%2f*~data=hdntl~hmac=3805d2cccd18a35592a89b8d87902105fb911ffc9b573b474c68b0c478f5a4b4/index.m3u8
+https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1673696147~acl=%2f*~data=hdntl~hmac=d090ec028a9c2359fbaeef9d54c473d0af914a291569f7eb7a5c79ca07de4458/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BPL T20
 https://dai.fancode.com/linear/hls/event/9SxcfJeuSkCZ0VqdxHrFFQ/master.m3u8
