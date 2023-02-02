@@ -33,14 +33,11 @@ https://dai.fancode.com/linear/hls/event/TFOoa-x2SFyoF7oFzzE6QQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SUPER SMASH T20
 https://dai.fancode.com/linear/hls/event/OZQaJ-JVQByMSe1_TEOBgA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", ENG VS SA
-https://dai.fancode.com/linear/hls/event/QgfJu11aT5G5G8SsVQxrng/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", BBL 1 T20
 https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", BBL 2 T20
 https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", IND VS NZ
-https://jiolivestreaming.akamaized.net/bpk-tv/SportsHD15_voot_MOB/output03/hdntl=exp=1675312823~acl=%2f*~data=hdntl~hmac=c329d6057eb4ccf20e021cc8de5798e6d03d5a8ab638187bff9436d26dd4bc9f/SportsHD15_voot_MOB.m3u8
+/*#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU",
+*/
