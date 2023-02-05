@@ -13,10 +13,10 @@ https://dai.google.com/linear/hls/event/qx2pBL5PS6G6XE6Iy89Oog/master.m3u8
 https://dai.google.com/linear/hls/event/hIY7PUAzTNCUPdYAsop0vg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 ENG
-https://jioeventhin.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1675439478~acl=%2f*~data=hdntl~hmac=8f0e5a5592a4c70603a094d1ca63b7f8b112bd530f822f693ce24dc8d3f834be/M1_JV_English_DIG_BTS.m3u8
+https://jioeventeng.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1675682499~acl=%2f*~data=hdntl~hmac=257dc777977d7bfca41747ad52e0047601b94a997d624eb3237afd48651ae5db/M1_JV_English_DIG_BTS.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 HIN
-https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1675439478~acl=%2f*~data=hdntl~hmac=8f0e5a5592a4c70603a094d1ca63b7f8b112bd530f822f693ce24dc8d3f834be/M1_JV_Hindi_DIG_BTS.m3u8
+https://jioeventeng.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1675682499~acl=%2f*~data=hdntl~hmac=257dc777977d7bfca41747ad52e0047601b94a997d624eb3237afd48651ae5db/M1_JV_Hindi_DIG_BTS.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BPL T20
 https://dai.fancode.com/linear/hls/event/32dZoRFbRBCakjNDbjoQVA/master.m3u8
@@ -26,8 +26,7 @@ https://dai.fancode.com/linear/hls/event/morEOWfnTVKdLCxI172gbg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", WI VS ZIM
 https://dai.fancode.com/linear/hls/event/t6lsKlLqSYyrkRAs5n6BWg/master.m3u8
-/*
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw",
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU",
-*/
