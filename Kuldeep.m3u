@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw",
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU",
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BPL T20
+https://dai.fancode.com/linear/hls/event/gQPGqmNGT8iCN8zP7xKHLA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SUPER SMASH T20
+https://dai.fancode.com/linear/hls/event/gQPGqmNGT8iCN8zP7xKHLA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 ENG
+https://jioeventhin.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1675870318~acl=%2f*~data=hdntl~hmac=507429f61ac6e6b1272be22e36fc385f9972edd473503e19050927bee86a65f9/M1_JV_English_DIG_BTS.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 HIN
+https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1675870318~acl=%2f*~data=hdntl~hmac=507429f61ac6e6b1272be22e36fc385f9972edd473503e19050927bee86a65f9/M1_JV_Hindi_DIG_BTS.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",IL 1 T20 ENG
 https://dai.google.com/linear/hls/event/FYq71JZ0Q_y3qYek7BnuEg/master.m3u8
 
@@ -11,19 +27,3 @@ https://dai.google.com/linear/hls/event/qx2pBL5PS6G6XE6Iy89Oog/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",IL 2 T20 HIN
 https://dai.google.com/linear/hls/event/hIY7PUAzTNCUPdYAsop0vg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 ENG
-https://jioeventeng.akamaized.net/bpk-tv/M2_JV_English_DIG_BTS/Fallback/hdntl=exp=1675682499~acl=%2f*~data=hdntl~hmac=257dc777977d7bfca41747ad52e0047601b94a997d624eb3237afd48651ae5db/M2_JV_English_DIG_BTS.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 HIN
-https://jioeventeng.akamaized.net/bpk-tv/M2_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1675682499~acl=%2f*~data=hdntl~hmac=257dc777977d7bfca41747ad52e0047601b94a997d624eb3237afd48651ae5db/M2_JV_Hindi_DIG_BTS.m3u8
-
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BPL T20
-https://dai.fancode.com/linear/hls/event/gQPGqmNGT8iCN8zP7xKHLA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SUPER SMASH T20
-https://dai.fancode.com/linear/hls/event/gQPGqmNGT8iCN8zP7xKHLA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw",
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU",
