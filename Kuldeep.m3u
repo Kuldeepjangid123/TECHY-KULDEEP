@@ -6,25 +6,13 @@ https://jiolivestreaming.akamaized.net/bpk-tv/SportsHD15_voot_MOB/output03/hdntl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", WOMEN T20 WORLD CUP
 http://xtv.ooo:8080/live/pavan0111202/hybridtech011/167594.ts
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw",
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", PSL T20
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BPL T20
 https://dai.fancode.com/linear/hls/event/IEc8kbcjS-isfKWDsjEqRQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 ENG
-https://jioeventhin.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1676042781~acl=%2f*~data=hdntl~hmac=7d8c8de30eb0f679a53aabbc3e1bcba455084ec576e188d42cd2cca2655e1f68/master.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" ,
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" , SA T20 HIN
-https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1676042781~acl=%2f*~data=hdntl~hmac=7d8c8de30eb0f679a53aabbc3e1bcba455084ec576e188d42cd2cca2655e1f68/master.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",IL 1 T20 ENG
-https://dai.google.com/linear/hls/event/FYq71JZ0Q_y3qYek7BnuEg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",IL 1 T20 HIN
-https://dai.google.com/linear/hls/event/_f765kXvQb2U1U28zpVUqg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",IL 2 T20 ENG
-https://dai.google.com/linear/hls/event/qx2pBL5PS6G6XE6Iy89Oog/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",IL 2 T20 HIN
-https://dai.google.com/linear/hls/event/hIY7PUAzTNCUPdYAsop0vg/master.m3u8
