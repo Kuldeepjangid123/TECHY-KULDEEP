@@ -11,8 +11,9 @@ http://xtv.ooo:8080/live/pavan0111202/hybridtech011/167594.ts
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BPL T20
 https://dai.fancode.com/linear/hls/event/IEc8kbcjS-isfKWDsjEqRQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw" ,
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG
+https://jioeventhin.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hdntl=exp=1676361169~acl=%2f*~data=hdntl~hmac=0e152efca45e0987707589097d89e4d7a6280d83ec45ad4c3bdee9fc50a249ee/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw", WPL HIN
+https://jioeventhin.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hdntl=exp=1676361169~acl=%2f*~data=hdntl~hmac=0e152efca45e0987707589097d89e4d7a6280d83ec45ad4c3bdee9fc50a249ee/master.m3u8
 
