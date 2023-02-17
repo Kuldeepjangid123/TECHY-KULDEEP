@@ -1,3 +1,11 @@
+[{ 
+"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",
+"name": "Hotstar", 
+"link": "http://live12p.akt.hotstar-cdn.net/hls/live/2024729/incaallow-indvsaus2023/hin/1540022032/15mindvrm01b1d61b4e06b241bc88557f1228e42a3317february2023/master_6.m3u8", 
+"userAgent": "Hotstar;in.startv.hotstar/12.4.9.1171 (Android/10)", 
+"cookie": "hdntl=exp=1676630572~acl=*indvsaus2023*~id=7fecd6f75ab4fe0a967517a52cf72e26~data=ip%3dzghtx0mZjJBPKEsKC0AxTz-userid%3daI110eVlcPDQaOUMlh444xRtT98F3nmIm8LhwVzMZ6cR-did%3dFRYBE5qOnQtPQYOjDlaLrfVGFaaKpLsrV7OFPeI3gJ43b6lo3amo0Z1-cc%3din-~hmac=dc964fc6f53d97da04e337486cc4527106ddfa4d0ae1b92b5bcad22ceb34aa54"
+}]
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", IND VS AUS
