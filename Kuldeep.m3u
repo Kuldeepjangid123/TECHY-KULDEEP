@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", IND VS AUS
-https://jiolivestreaming.akamaized.net/bpk-tv/SportsHD15_voot_MOB/output03/hdntl=exp=1676746761~acl=%2f*~data=hdntl~hmac=d9989f3cb3595c3922f4210a0dd7d88765e473eae7a0ca3b94a934d05c4a5429/SportsHD15_voot_MOB.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/SportsHD15_voot_MOB/output03/hdntl=exp=1676830822~acl=%2f*~data=hdntl~hmac=dbe3c1cebe6068e734717d2d577392316115d6c74b0e7ce873f4cac8804fb784/SportsHD15_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", T20 WORLD CUP
 http://xtv.ooo:8080/live/pavan0111202/hybridtech011/167594.ts
