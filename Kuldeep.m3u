@@ -4,7 +4,7 @@
 https://jiolivestreaming.akamaized.net/bpk-tv/SportsHD15_voot_MOB/output03/hdntl=exp=1676830822~acl=%2f*~data=hdntl~hmac=dbe3c1cebe6068e734717d2d577392316115d6c74b0e7ce873f4cac8804fb784/SportsHD15_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", T20 WORLD CUP
-http://xtv.ooo:8080/live/pavan0111202/hybridtech011/167594.ts
+http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", PSL 1 T20
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
@@ -14,7 +14,6 @@ https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", 4K
-https://jioeventeng.akamaized.net/bpk-tv/M2_JV_English_DIG_BTS/Fallback/hdntl=exp=1677055795~acl=%2f*~data=hdntl~hmac=9f18b18d230748128056b5505071e9f35605deaf0c72d6891337ba747870c24c/M2_JV_English_DIG_BTS.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw",
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",
