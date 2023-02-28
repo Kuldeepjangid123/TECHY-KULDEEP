@@ -12,6 +12,7 @@ https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SA VS WI
 https://dai.google.com/linear/hls/event/mAawD-txSGeVrp4WN4m2zQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw",
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IND VS AUS 2
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd|drmScheme=clearkey&drmLicense=2f27d053d83d5284859cdd8b26bb17e2:7cbeb33990380306b1f5b9a0fb4f6fd0
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",
