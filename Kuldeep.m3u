@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", IND VS AUS
-
+https://jiolivestreaming.akamaized.net/bpk-tv/SportsHD15_voot_MOB/output03/hdntl=exp=1677783391~acl=%2f*~data=hdntl~hmac=09ec8c3d1d049b75ba0ac0bb5dd84ffdf125ec6b88779564e4a37141ba61c778/SportsHD15_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", PSL 1 T20
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
