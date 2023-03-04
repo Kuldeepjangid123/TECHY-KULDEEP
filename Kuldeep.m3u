@@ -15,6 +15,8 @@ https://dai.google.com/linear/hls/event/9y6ZdCpcRkSw2gZH1cMfAA/master.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",ENG VS BAN
 https://dai.google.com/linear/hls/event/Dm5A3ApWS32XdmzUafFtAg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw",
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG
+https://sports-eng.jiocinema.com/hls/live/2099000/hd_akamai_ctv_hevc_eng_wpl01_MOB/master1080_avc.m3u8|x-token-platform=web
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw",
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ElH_LEMzUtOJNweZBZ1QAZZDHzxgSja6DKYCevqihEYWGHLM6eFIP1JDYR25QRbF1w=w480-h960-rw", WPL HIN
+https://sports-engp.jiocinema.com/out/v1/b990e9f5fbee4b7b8898fdb3bd6c6f1a/master_4.m3u8|User-agent=JioCinema/3.0.2.8 (Linux;Android 13) ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678018140~acl=%2f*~data=hdntl~hmac=4114bd789076eb7ce92a8f9d13ca53edd712af80c04e5d2c70a9248cdf4a6038
