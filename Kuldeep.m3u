@@ -19,16 +19,16 @@ https://dai.fancode.com/linear/hls/event/VEgTdPehTZ2GW-REbjv5zA/master.m3u8
 https://dai.fancode.com/linear/hls/event/DVqHqnZTSyKLBYqnvEEDdA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG
-https://sports-engp.jiocinema.com/out/v1/b990e9f5fbee4b7b8898fdb3bd6c6f1a/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678455047~acl=%2f*~data=hdntl~hmac=e666ed2f5e258d4bb05300ca18d6f1aa3c0f21f2e0077342e96ffde19888cdbe
+https://sports-engp.jiocinema.com/out/v1/b990e9f5fbee4b7b8898fdb3bd6c6f1a/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678452723~acl=%2f*~data=hdntl~hmac=7ca9cf7795bbdb403462614068292fe8fe6dbe63dd4019110dc93ce90c083527
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN
-https://sports-hinp.jiocinema.com/out/v1/1e9194f3c9e14e438ae7425841bc7999/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678455047~acl=%2f*~data=hdntl~hmac=e666ed2f5e258d4bb05300ca18d6f1aa3c0f21f2e0077342e96ffde19888cdbe
+https://sports-hinp.jiocinema.com/out/v1/1e9194f3c9e14e438ae7425841bc7999/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678452723~acl=%2f*~data=hdntl~hmac=7ca9cf7795bbdb403462614068292fe8fe6dbe63dd4019110dc93ce90c083527
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG 4K
-https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl07/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678455047~acl=%2f*~data=hdntl~hmac=e666ed2f5e258d4bb05300ca18d6f1aa3c0f21f2e0077342e96ffde19888cdbe
+https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl07/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678452723~acl=%2f*~data=hdntl~hmac=7ca9cf7795bbdb403462614068292fe8fe6dbe63dd4019110dc93ce90c083527
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN 4K
-https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl07/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678455047~acl=%2f*~data=hdntl~hmac=e666ed2f5e258d4bb05300ca18d6f1aa3c0f21f2e0077342e96ffde19888cdbe
+https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl07/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678452723~acl=%2f*~data=hdntl~hmac=7ca9cf7795bbdb403462614068292fe8fe6dbe63dd4019110dc93ce90c083527
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 1
 https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl07/master_1080p.m3u8%7Cx-token-platform=web
