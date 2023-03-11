@@ -15,20 +15,16 @@ https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SA VS WI
 https://dai.fancode.com/linear/hls/event/wjoR7xNKQvK5FEvrYqZnEw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",ENG VS BAN
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", ENG VS BAN
 https://dai.fancode.com/linear/hls/event/DVqHqnZTSyKLBYqnvEEDdA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", LLC T20
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG
 https://sports-eng.jiocinema.com/hls/live/2099000/hd_akamai_ctv_avc_eng_wpl09/master1080_avc.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN
 https://sports-hin.jiocinema.com/hls/live/2099003/hd_akamai_ctv_avc_hin_wpl09/master1080_avc.m3u8%7Cx-token-platform=web
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG 4K
-https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl09/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678625606~acl=%2f*~data=hdntl~hmac=a60a4166d63a6c251e0f5ccafba0cd321952ead227781915e49438b717702a34
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN 4K
-https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl09/master.m3u8%7CUser-agent=JioCinema/3.0.2.8%20(Linux;Android%2013)%20ExoPlayerLib/2.18.1&cookie=hdntl=exp=1678625606~acl=%2f*~data=hdntl~hmac=a60a4166d63a6c251e0f5ccafba0cd321952ead227781915e49438b717702a34
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 1
 https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl09/master_1080p.m3u8%7Cx-token-platform=web
