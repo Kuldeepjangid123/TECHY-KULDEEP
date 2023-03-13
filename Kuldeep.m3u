@@ -22,10 +22,16 @@ https://dai.fancode.com/linear/hls/event/bFj8HsegSveP-NLA9eA1DA/master.m3u8
 https://dai.google.com/linear/hls/event/f5iZ6qAHS6aiJyhv8hg-Lw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG
-https://sports-eng.jiocinema.com/hls/live/2099000/hd_akamai_ctv_avc_eng_wpl11/master1080_avc.m3u8%7Cx-token-platform=web
+https://sports-engp.jiocinema.com/out/v1/b990e9f5fbee4b7b8898fdb3bd6c6f1a/hdntl=exp=1678800160~acl=%2f*~data=hdntl~hmac=fbd724c919873fd01957c62edb5a70199a033f9812c6c14b5632083162666481/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN
-https://sports-hin.jiocinema.com/hls/live/2099003/hd_akamai_ctv_avc_hin_wpl11/master1080_avc.m3u8%7Cx-token-platform=web
+https://sports-hinp.jiocinema.com/out/v1/1e9194f3c9e14e438ae7425841bc7999/hdntl=exp=1678800160~acl=%2f*~data=hdntl~hmac=fbd724c919873fd01957c62edb5a70199a033f9812c6c14b5632083162666481/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG 4K
+https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl11/hdntl=exp=1678800160~acl=%2f*~data=hdntl~hmac=fbd724c919873fd01957c62edb5a70199a033f9812c6c14b5632083162666481/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN 4K
+https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl11/hdntl=exp=1678800160~acl=%2f*~data=hdntl~hmac=fbd724c919873fd01957c62edb5a70199a033f9812c6c14b5632083162666481/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 1
 https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl11/master_1080p.m3u8%7Cx-token-platform=web
