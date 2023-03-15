@@ -25,10 +25,10 @@ https://sports-eng.jiocinema.com/hls/live/2099000/hd_akamai_ctv_avc_eng_wpl13/ma
 https://sports-hin.jiocinema.com/hls/live/2099003/hd_akamai_ctv_avc_hin_wpl13/master1080_avc.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG 4K
-https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl13/hdntl=exp=1678974408~acl=%2f*~data=hdntl~hmac=ea03dbda1efccc54d672f732354f7a43921dcaa4e8f73014e35ee2265510069d/master.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/M1_WPL23_English_UHD_DIG_BTS/Fallback/hdntl=exp=1678975564~acl=%2f*~data=hdntl~hmac=f2d37120f024bd1533bcbe069125e07e9434633a578769967f66a8b514687119/M1_WPL23_English_UHD_DIG_BTS.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN 4K 
-https://sports-uhd.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl13/hdntl=exp=1678974408~acl=%2f*~data=hdntl~hmac=ea03dbda1efccc54d672f732354f7a43921dcaa4e8f73014e35ee2265510069d/master.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/M1_WPL23_Hindi_UHD_DIG_BTS/Fallback/hdntl=exp=1678975564~acl=%2f*~data=hdntl~hmac=f2d37120f024bd1533bcbe069125e07e9434633a578769967f66a8b514687119/M1_WPL23_Hindi_UHD_DIG_BTS.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 1
 https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl13/master_1080p.m3u8%7Cx-token-platform=web
