@@ -24,6 +24,9 @@ https://sports-eng.jiocinema.com/hls/live/2099000/hd_akamai_ctv_avc_eng_wpl13/ma
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN
 https://sports-hin.jiocinema.com/hls/live/2099003/hd_akamai_ctv_avc_hin_wpl13/master1080_avc.m3u8%7Cx-token-platform=web
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN 4K
+https://jiolivestreaming.akamaized.net/bpk-tv/M1_WPL23_Hindi_UHD_DIG_BTS/Fallback/hdntl=exp=1678973346~acl=%2f*~data=hdntl~hmac=d30e83645470c4eca263835e7a773f03dd07b593012c0b8a1c605e5a955bd162/M1_WPL23_Hindi_UHD_DIG_BTS-audio_196835_hin=196800-video=12310400.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 1
 https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl13/master_1080p.m3u8%7Cx-token-platform=web
 
