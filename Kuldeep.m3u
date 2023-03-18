@@ -22,21 +22,21 @@ https://sports-eng.jiocinema.com/hls/live/2099000/hd_akamai_ctv_avc_eng_wpl15/ma
 https://sports-hin.jiocinema.com/hls/live/2099003/hd_akamai_ctv_avc_hin_wpl15/master1080_avc.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG 4K
-https://jiolivestreaming.akamaized.net/bpk-tv/M1_WPL23_English_UHD_DIG_BTS/Fallback/hdntl=exp=1679212342~acl=%2f*~data=hdntl~hmac=769142d95dfc5df19b278ca9a9d010f1d3e6da36b45dff9d64e0056f4af9e1b1/M1_WPL23_English_UHD_DIG_BTS.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/M2_WPL23_English_UHD_DIG_BTS/Fallback/hdntl=exp=1679212342~acl=%2f*~data=hdntl~hmac=769142d95dfc5df19b278ca9a9d010f1d3e6da36b45dff9d64e0056f4af9e1b1/M2_WPL23_English_UHD_DIG_BTS.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL HIN 4K 
-https://jiolivestreaming.akamaized.net/bpk-tv/M1_WPL23_Hindi_UHD_DIG_BTS/Fallback/hdntl=exp=1679212342~acl=%2f*~data=hdntl~hmac=769142d95dfc5df19b278ca9a9d010f1d3e6da36b45dff9d64e0056f4af9e1b1/M1_WPL23_Hindi_UHD_DIG_BTS.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/M2_WPL23_Hindi_UHD_DIG_BTS/Fallback/hdntl=exp=1679212342~acl=%2f*~data=hdntl~hmac=769142d95dfc5df19b278ca9a9d010f1d3e6da36b45dff9d64e0056f4af9e1b1/M2_WPL23_Hindi_UHD_DIG_BTS.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 1
-https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl15/master_1080p.m3u8%7Cx-token-platform=web
+https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl16/master_1080p.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 2
-https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam2_wpl15/master_1080p.m3u8%7Cx-token-platform=web
+https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam2_wpl16/master_1080p.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 3
-https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam3_wpl15/master_1080p.m3u8%7Cx-token-platform=web
+https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam3_wpl16/master_1080p.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL CAM 4
-https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam4_wpl15/master_1080p.m3u8%7Cx-token-platform=web
+https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam4_wpl16/master_1080p.m3u8%7Cx-token-platform=web
 
 
