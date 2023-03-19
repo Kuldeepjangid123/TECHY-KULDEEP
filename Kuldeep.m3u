@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", IND VS AUS ENG
-https://jiolivestreaming.akamaized.net/bpk-tv/SportsHD3_voot_MOB/output03/hdntl=exp=1679077090~acl=%2f*~data=hdntl~hmac=467313bd48e823b3b978007e85f9ad1e200e576d739e24c063db36fa64c36f4a/SportsHD3_voot_MOB.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/SportsHD1_voot_MOB/output03/hdntl=exp=1679285987~acl=%2f*~data=hdntl~hmac=329a4dbdfbd28a9932c7f2f9a1aa5eb2e0cb698943da697dfdf5e68ded03664d/SportsHD1_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", IND VS AUS HIN
 https://delta4tatasky.akamaized.net/out/i/6527246.mpd%7CdrmScheme=clearkey&drmLicense=f201d49f317b4b09918f89f5618c7fe9:0be2aa8395067137faba42523076a3cb
