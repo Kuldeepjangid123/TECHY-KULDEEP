@@ -11,8 +11,8 @@ https://delta4tatasky.akamaized.net/out/i/6527246.mpd%7CdrmScheme=clearkey&drmLi
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SA VS WI
 https://dai.fancode.com/linear/hls/event/YiUAzDIwRl6lx_9PYBQaSQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BAN VS IRE
-https://dai.google.com/linear/hls/event/8DmAY2R_Q2S9q5g-YbkBMA/master.m3u8
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", PAK VS AFG
+https://dai.fancode.com/primary/68213_english_hls_3317adfreeta-di/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", WPL ENG
 https://sports-eng.jiocinema.com/hls/live/2099000/hd_akamai_ctv_avc_eng_wpl21/master1080_avc.m3u8%7Cx-token-platform=web
