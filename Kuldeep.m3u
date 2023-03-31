@@ -12,16 +12,16 @@ https://delta4tatasky.akamaized.net/out/i/6527246.mpd%7CdrmScheme=clearkey&drmLi
 https://dai.fancode.com/linear/hls/event/j8Q75mj5TCOLCZ3BPoAtsg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL ENG
-https://sports-eng.jiocinema.com/hls/live/2099000/hd_akamai_ctv_avc_eng_wpl22/master1080_avc.m3u8%7Cx-token-platform=web
+https://prod-sports-eng.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_BTS/Fallback/M1_IPL23_Eng_HD_IDC_BTS.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN
-https://sports-hin.jiocinema.com/hls/live/2099003/hd_akamai_ctv_avc_hin_wpl22/master1080_avc.m3u8%7Cx-token-platform=web
+https://prod-sports-hin.jiocinema.com/bpk-tv/M1_IPL23_Hin_UHD_IDC_BTS/Fallback/M1_IPL23_Hin_UHD_IDC_BTS.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL ENG 4K
-https://jiolivestreaming.akamaized.net/bpk-tv/M1_WPL23_English_UHD_DIG_BTS/Fallback/hdntl=exp=1679892900~acl=%2f*~data=hdntl~hmac=ad0894678d28d3b3f1021adce398922af6c2618684f1b917d634656da8a51afe/M1_WPL23_English_UHD_DIG_BTS.m3u8
+https://prod-sports-eng.jiocinema.com/bpk-tv/M1_IPL23_Eng_UHD_IDC_BTS/Fallback/M1_IPL23_Eng_UHD_IDC_BTS-audio_277635_eng=277600-video=7708800.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN 4K 
-https://jiolivestreaming.akamaized.net/bpk-tv/M1_WPL23_Hindi_UHD_DIG_BTS/Fallback/hdntl=exp=1679892900~acl=%2f*~data=hdntl~hmac=ad0894678d28d3b3f1021adce398922af6c2618684f1b917d634656da8a51afe/M1_WPL23_Hindi_UHD_DIG_BTS.m3u8
+https://prod-sports-hin.jiocinema.com/bpk-tv/M1_IPL23_Hin_UHD_IDC_BTS/Fallback/M1_IPL23_Hin_UHD_IDC_BTS-audio_277635_hin=277600-video=7708800.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL CAM 1
 https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl22/master_1080p.m3u8%7Cx-token-platform=web
