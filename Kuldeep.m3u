@@ -23,16 +23,6 @@ https://prod-sports-eng.jiocinema.com/bpk-tv/M1_IPL23_Eng_UHD_IDC_BTS/Fallback/M
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN 4K 
 https://prod-sports-hin.jiocinema.com/bpk-tv/M1_IPL23_Hin_UHD_IDC_BTS/Fallback/M1_IPL23_Hin_UHD_IDC_BTS-audio_277635_hin=277600-video=7708800.m3u8%7Cx-token-platform=web
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL CAM 1
-https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam1_wpl22/master_1080p.m3u8%7Cx-token-platform=web
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL CAM 2
-https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam2_wpl22/master_1080p.m3u8%7Cx-token-platform=web
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL CAM 3
-https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam3_wpl22/master_1080p.m3u8%7Cx-token-platform=web
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL CAM 4
-https://sports-multiangle.jiocinema.com/hls/live/2099024/hd_akamai_mob_avc_cam4_wpl22/master_1080p.m3u8%7Cx-token-platform=web
 
 
