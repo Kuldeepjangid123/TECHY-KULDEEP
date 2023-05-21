@@ -14,27 +14,18 @@ https://dai.google.com/linear/hls/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", IRE VS BAN
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL ENG 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL ENG 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallback/M1_IPL23_Eng_HD_IDC_BTS.m3u8%7Cx-token-platform=web
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL ENG 2
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_HD_IDC_AND/Fallback/M2_IPL23_Eng_HD_IDC_BTS.m3u8%7Cx-token-platform=web
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Hin_HD_IDC_AND/Fallback/M1_IPL23_Hin_HD_IDC_BTS.m3u8%7Cx-token-platform=web
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN 2
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/M2_IPL23_Hin_HD_IDC_AND/Fallback/M2_IPL23_Hin_HD_IDC_BTS.m3u8%7Cx-token-platform=web
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL ENG 4K 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL ENG 4K
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_UHD_IDC_BTS/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL ENG 4K 2
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_UHD_IDC_BTS/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN 4K 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN 4K
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Hin_UHD_IDC_BTS/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LuruMgZZ3D08QNjUzUePG6C55PCkk6tgCNwCaeNKu3K4nKioQKGxKvxx-mUt8f6syw=w480-h960-rw", IPL HIN 4K 2
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/M2_IPL23_Hin_UHD_IDC_BTS/Fallback/index.m3u8
+
+
 
