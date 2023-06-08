@@ -6,12 +6,6 @@ https://delta14tatasky.akamaized.net/out/i/7136433.mpd%7CdrmScheme=clearkey&drmL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", STAR SPORTS HIN
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:517f5a29ae263423469d82e89ce29ea3
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", AUS VS IND ENG
-https://live11p.hotstar.com/hls/live/2024720/inallow-icc-wtc2023/eng/1540023548/15mindvrm01965f3b31530049bd859d7f7eb410a39608june2023/master_6.m3u8%7CUser-agent=Mozilla/5.0%20(Linux;%20Android%2010;%20RMX1925)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/110.0.0.0%20Mobile%20Safari/537.36&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&cookie=hdntl=exp=1686216099~acl=/hls/live/2024720/inallow-icc-wtc2023/eng/1540023548/15mindvrm01965f3b31530049bd859d7f7eb410a39608june2023*~id=34efe5655220c0b31fd794f6780d106b~data=ip=x5ZVnhCZJgTf32fBXqUioK-userid=v10wK1Lmf5Kf0RZ8agMZxnqtopdzamgjDEvzFweHLkZx-did=4QBDKNQr0z6BIQdVW6Jw1rbneQUEGKNHNjSGm2bcEBLn0ecwHQKvgOu-cc=in-~hmac=63e1e3fc00c2ea8497c6053082f810ef1f1cc2d9ff36a6a60c66e2fef41dfdc0
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", AUS VS IND HIN
-https://live12p.hotstar.com/hls/live/2024725/inallow-icc-wtc2023/hin/1540023548/15mindvrm01965f3b31530049bd859d7f7eb410a39608june2023/master_6.m3u8%7CUser-agent=Mozilla/5.0%20(Linux;%20Android%2010;%20RMX1925)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/110.0.0.0%20Mobile%20Safari/537.36&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&cookie=hdntl=exp=1686216022~acl=/hls/live/2024725/inallow-icc-wtc2023/hin/1540023548/15mindvrm01965f3b31530049bd859d7f7eb410a39608june2023*~id=6d257b39627d5bd3b0e5016305dd40aa~data=ip=x5ZVnhCZJgTf32fBXqUioK-userid=v10wK1Lmf5Kf0RZ8agMZxnqtopdzamgjDEvzFweHLkZx-did=4QBDKNQr0z6BIQdVW6Jw1rbneQUEGKNHNjSGm2bcEBLn0ecwHQKvgOu-cc=in-~hmac=460b9afe71920077eae28720719c908b8933d080c034f4dad8da711f6ba2ca78
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", VITALITY BLAST T20 1
 https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 
@@ -19,7 +13,10 @@ https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 https://dai.google.com/linear/hls/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", SL VS AFG
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", WI VS UAE
 https://dai.fancode.com/primary/73885_english_hls_3819ta-no/index.m3u8
