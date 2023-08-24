@@ -6,17 +6,8 @@ https://delta14tatasky.akamaized.net/out/i/7136433.mpd%7CdrmScheme=clearkey&drmL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", STAR SPORTS HIN
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:27018582d86d8caaaf35ab266a4fa286
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", THE HUNDRED WOMEN 1
-https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", THE HUNDRED WOMEN
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", THE HUNDRED WOMEN 2
-https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", THE HUNDRED MEN 1
-https://dai.google.com/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", THE HUNDRED MEN 2
-https://dai.google.com/linear/hls/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", THE HUNDRED
 https://dai.google.com/linear/hls/event/UYdQTl0MTC-I5r8AzOxEkw/master.m3u8
