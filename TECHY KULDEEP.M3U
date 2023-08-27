@@ -8,7 +8,10 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifes
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", THE HUNDRED WOMEN
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", THE HUNDRED
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", ENG VS NZ
+https://dai.google.com/linear/hls/event/DasLHp64Scqa26u9MY8ueg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SA VS AUS
 https://dai.google.com/linear/hls/event/DasLHp64Scqa26u9MY8ueg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", CPL T20
