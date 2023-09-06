@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", STAR SPORTS ENG
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=06341bf3dd635e6ca5c71188d0210373:faa48b698476040ba68a450931c93376
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=06341bf3dd635e6ca5c71188d0210373:7f3b0313c545df4db3b72f4a743f6180
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", STAR SPORTS HIN
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:27018582d86d8caaaf35ab266a4fa286
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:a5f09bc31dbac3438c60745535aa843e
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", ENG VS NZ
 https://dai.google.com/linear/hls/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8
