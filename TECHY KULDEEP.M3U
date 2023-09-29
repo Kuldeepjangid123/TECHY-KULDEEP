@@ -6,6 +6,11 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifes
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", STAR SPORTS HIN
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:c48587aa773bdd309070b6ea7ce3fcbc
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", PAK VS NZ HIN
+http://live12p-ssai-akt-mum.cdn.hotstar.com/hls/live/2024729/inallow-icccwc-2023/hin/1540025574/15mindvrm01d23de10b1b864f33a6e934112088f3c429september2023/master_apm_720_5.m3u8|cookie=hdntl=exp=1695983449~acl=%2fhls%2flive%2f2024729%2finallow-icccwc-2023%2fhin%2f1540025574%2f15mindvrm01d23de10b1b864f33a6e934112088f3c429september2023%2fmaster_ap*~id=dcfc6411cbf52de3359578972565b32d~data=ip%3djLHpHBXIohjGvd17hCEqyk-userid%3dv10wK1Lmf5Kf0RZ8agMZxnqtopdzamgjDEvzFweHLkZx-did%3dFRYBE5qOnQtPQYOjDlaLrfVGFaaKpLsrV7OFPeI3gJ43b6lo3amo0Z1-cc%3din-~hmac=a18a1e0e2ca84fa7b24092829895b8db23a37cfc9ae631d43e26eb5256911ec0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", SL VS BAN ENG
+http://live11p-ssai-akt-mum.cdn.hotstar.com/hls/live/2024723/inallow-icccwc-2023/eng/1540025703/15mindvrm02928b452ecd0e44b681f1fc7610b7523f29september2023/master_apm_720_5.m3u8|cookie=hdntl=exp=1695982717~acl=%2fhls%2flive%2f2024723%2finallow-icccwc-2023%2feng%2f1540025703%2f15mindvrm02928b452ecd0e44b681f1fc7610b7523f29september2023%2fmaster_ap*~id=470df8d8332509b1409b84f53bf7b9f7~data=ip%3djLHpHBXIohjGvd17hCEqyk-userid%3dv10wK1Lmf5Kf0RZ8agMZxnqtopdzamgjDEvzFweHLkZx-did%3dFRYBE5qOnQtPQYOjDlaLrfVGFaaKpLsrV7OFPeI3gJ43b6lo3amo0Z1-cc%3din-~hmac=c26aedae4d392ec3633526fde9d6fa12c8f2990d46a03f3aae8dd0c5f8018453
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", ENG VS NZ
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SA W VS NZ W
