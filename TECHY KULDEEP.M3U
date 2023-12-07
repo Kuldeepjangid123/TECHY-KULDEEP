@@ -6,7 +6,7 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifes
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", IND VS SA HIN
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:b76d9ac9ee36d0cf61653bed83bee8bd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", BIG BASH LEAGUE T20
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", BBL T20
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd%7CdrmScheme=clearkey&drmLicense=bc5ea952698553daaba85787001d6093:2f7af3f342eb690856ed0e9b6494b8e4
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", ENG VS NZ
@@ -18,10 +18,10 @@ https://dai.fancode.com/linear/hls/event/KFZnbdCoRQabOZnRa3RXAg/master.m3u8
 https://dai.fancode.com/linear/hls/event/6MIZjGYfQS-gY9MjICIWsA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IND W VS ENG W ENG 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100308/uhd_akamai_ctv_avc_eng_womenst20_061223/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100308/uhd_akamai_ctv_avc_eng_womenst20_091223/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IND W VS ENG W HIN 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100327/uhd_akamai_ctv_avc_hin_womenst20_061223/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100327/uhd_akamai_ctv_avc_hin_womenst20_091223/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", ABU DHABI T10 ENG 
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_071223/master.m3u8
