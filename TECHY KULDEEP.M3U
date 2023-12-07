@@ -11,8 +11,8 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifes
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", ENG VS WI
 https://dai.fancode.com/linear/hls/event/PPdybDZzQ6uIgIeGDukL3g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", SA W VS BAN W
-https://dai.fancode.com/linear/hls/event/AiM2dEm8TpeZz41_YBd1KQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", NZ VS BAN 
+https://dai.fancode.com/linear/hls/event/ADQqIWbmT1m0WyWS1gWWfA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IND W VS ENG W ENG 4K
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100308/uhd_akamai_ctv_avc_eng_womenst20_061223/master.m3u8
@@ -21,16 +21,16 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100308/uhd_akamai_ctv_avc_eng_w
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100327/uhd_akamai_ctv_avc_hin_womenst20_061223/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", ABU DHABI T10 ENG 
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_061223/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_071223/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", ABU DHABI T10 HIN 
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099111/hd_akamai_iosmob_avc_hin_adt10_061223/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099111/hd_akamai_iosmob_avc_hin_adt10_071223/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", ABU DHABI T10 ENG 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099908/uhd_akamai_ctv_avc_eng_adt10_061223/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099908/uhd_akamai_ctv_avc_eng_adt10_071223/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", ABU DHABI T10 HIN 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099912/uhd_akamai_ctv_avc_hin_adt10_061223/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099912/uhd_akamai_ctv_avc_hin_adt10_071223/master.m3u8
 
 
 
