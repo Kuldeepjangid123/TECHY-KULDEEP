@@ -19,10 +19,23 @@ https://dai.fancode.com/linear/hls/event/CWgpzvc6QlCWiVkCjDfR5Q/master.m3u8
 https://dai.fancode.com/linear/hls/event/TBstK8CCRYObL66FoSOPUg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", SA T20 ENG
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100308/uhd_akamai_ctv_avc_eng_womenst20_090124/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m1_100124/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", SA T20 HIN
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100328/hd_akamai_iosmob_avc_hin_womenst20_090124/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_100124/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", SA T20 BIRD'S CAM
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099912/hd_akamai_merged_avc_cam04_sa20_m1_100124/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", SA T20 BATTER CAM
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099908/hd_akamai_merged_avc_cam01_sa20_m1_100124/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", SA T20 BOWLER CAM
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099111/hd_akamai_merged_avc_cam03_sa20_m1_100124/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", SA T20 STUMP CAM
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099112/hd_akamai_merged_avc_cam02_sa20_m1_100124/master.m3u8
+
 
 
 
