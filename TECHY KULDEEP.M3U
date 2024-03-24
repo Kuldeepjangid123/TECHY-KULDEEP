@@ -5,67 +5,67 @@
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", SL VS AFG
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", BAN VS SL
-https://dai.fancode.com/linear/hls/event/i93Y06uCRsuUAxHO33GZ3g/master.m3u8
+https://dai.fancode.com/linear/hls/event/zVbi-jQWQDSX_UicQApksA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 ENG 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s2_m2230324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 HIN 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_ipl_s2_m2230324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 ENG
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_iosmob_avc_eng_ipl_s2_m2230324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_iosmob_avc_eng_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 HIN
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_iosmob_avc_hin_ipl_s2_m2230324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_iosmob_avc_hin_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20
 https://prod-ent-live-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 GUJARATI
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109750/hd_akamai_iosmob_avc_guj_ipl_s2_m2230324/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109750/hd_akamai_iosmob_avc_guj_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 MARATHI
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109768/hd_akamai_iosmob_avc_mar_ipl_s2_m2230324/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109768/hd_akamai_iosmob_avc_mar_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 PUNJABI
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109756/hd_akamai_iosmob_avc_pun_ipl_s2_m2230324/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109756/hd_akamai_iosmob_avc_pun_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 HARYANVI
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109700/hd_akamai_iosmob_avc_odia_ipl_s2_m2230324/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109700/hd_akamai_iosmob_avc_odia_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 BHOJPURI
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109762/hd_akamai_iosmob_avc_bhoj_ipl_s2_m2230324/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109762/hd_akamai_iosmob_avc_bhoj_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 TAMIL
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109712/hd_akamai_iosmob_avc_tam_ipl_s2_m2230324/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109712/hd_akamai_iosmob_avc_tam_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 TELUGU
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109718/hd_akamai_iosmob_avc_tel_ipl_s2_m2230324/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109718/hd_akamai_iosmob_avc_tel_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 KANNADA
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109724/hd_akamai_iosmob_avc_kan_ipl_s2_m2230324/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109724/hd_akamai_iosmob_avc_kan_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 BENGLA
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_iosmob_avc_ben_ipl_s2_m2230324/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_iosmob_avc_ben_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 MALAYALAM
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109706/hd_akamai_iosmob_avc_mal_ipl_s2_m2230324/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109706/hd_akamai_iosmob_avc_mal_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 HERO CAM
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109671/hd_akamai_iosmob_avc_cam04_ipl_s2_m2230324/master.m3u8
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109671/hd_akamai_iosmob_avc_cam04_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 BATTER CAM
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109674/hd_akamai_iosmob_avc_cam01_ipl_s2_m2230324/master.m3u8
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109674/hd_akamai_iosmob_avc_cam01_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 STUMP CAM
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109673/hd_akamai_iosmob_avc_cam02_ipl_s2_m2230324/master.m3u8
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109673/hd_akamai_iosmob_avc_cam02_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 BIRD'S EYE CAM
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109672/hd_akamai_iosmob_avc_cam03_ipl_s2_m2230324/master.m3u8
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109672/hd_akamai_iosmob_avc_cam03_ipl_s1_m1240324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 MULTI VIEW CAM
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s2_m2230324/master.m3u8
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1240324/master.m3u8
 
  
 
