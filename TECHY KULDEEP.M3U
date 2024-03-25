@@ -44,7 +44,7 @@ https://prod-sports-south-gm.jiocinema.com/hls/live/2109712/hd_akamai_iosmob_avc
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109718/hd_akamai_iosmob_avc_tel_ipl_s1_m1250324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 KANNADA
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109724/hd_akamai_iosmob_avc_kan_ipl_s1_m1250324/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109724/hd_akamai_iosmob_avc_kan_ipl_s1_m1250324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IPL T20 BENGLA
 https://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_iosmob_avc_ben_ipl_s1_m1250324/master.m3u8
